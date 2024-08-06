@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Alice!
+
+## About me
+📚 Estudante de Sistemas de Informação na PUC Minas.
 
 <!--
 **aliceabreu/aliceabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
